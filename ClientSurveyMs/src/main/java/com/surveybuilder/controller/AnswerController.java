@@ -38,7 +38,7 @@ public class AnswerController {
 	 - Method Name      : listAllAnswerController
 	 - Input Parameters :
 	 - Return type      : List<Answer>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 21-04-2021
 	 - Description      : view all the answers from  the database.
 	  ****************************************************************************************************************************/ 
@@ -52,7 +52,7 @@ public class AnswerController {
 	 - Method Name      : createAnswerController
 	 - Input Parameters :Answer s
 	 - Return type      : Answer
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : create the Answer information entered by respondent and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -66,7 +66,7 @@ public class AnswerController {
 	 - Method Name      : viewAnswerByIdController
 	 - Input Parameters :long id
 	 - Return type      : Answer
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 21-04-2021
 	 - Description      : view all the answers stored in the database.
 	  ****************************************************************************************************************************/ 
@@ -86,7 +86,7 @@ public class AnswerController {
 	 - Method Name      : updateAnswerController
 	 - Input Parameters :Answer s, long id
 	 - Return type      : Answer
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 21-04-2021
 	 - Description      : update the answer information entered by respondent and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -101,7 +101,7 @@ public class AnswerController {
 	 - Method Name      : deleteAnswerByIdController
 	 - Input Parameters : long id
 	 - Return type      : boolean
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 21-04-2021
 	 - Description      : delete the answer information entered by respondent from the database.
 	  ****************************************************************************************************************************/ 

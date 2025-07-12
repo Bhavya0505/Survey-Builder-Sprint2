@@ -47,7 +47,7 @@ public class SurveyorController {
 	 - Method Name      : listAllSurveyorController
 	 - Input Parameters :
 	 - Return type      : List<Surveyor>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : view all the surveyor information from  the database.
 	  ****************************************************************************************************************************/ 
@@ -62,7 +62,7 @@ public class SurveyorController {
 	 - Method Name      : createSurveyorController
 	 - Input Parameters :Surveyor s
 	 - Return type      : String
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : Create the surveyor information entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -89,7 +89,7 @@ public class SurveyorController {
 	 - Method Name      : viewSurveyorByIdController
 	 - Input Parameters : long id
 	 - Return type      : Surveyor
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : view the surveyor information entered by surveyor from the database.
 	  ****************************************************************************************************************************/ 
@@ -106,7 +106,7 @@ public class SurveyorController {
 	 - Method Name      : updateSurveyorController
 	 - Input Parameters :Surveyor s, long id
 	 - Return type      : Surveyor
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : update the surveyor information entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -122,7 +122,7 @@ public class SurveyorController {
 	 - Method Name      : deleteSurveyorByIdController
 	 - Input Parameters :long id
 	 - Return type      : Boolean
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : Delete the surveyor information entered by surveyor and from  the database.
 	  ****************************************************************************************************************************/ 
@@ -141,7 +141,7 @@ public class SurveyorController {
 	 - Method Name      : viewAllSurvey
 	 - Input Parameters :
 	 - Return type      : ResponseEntity<String>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : retrive all survey information entered by surveyor and from  the database.
 	  ****************************************************************************************************************************/ 
@@ -158,7 +158,7 @@ public class SurveyorController {
 	 - Method Name      : viewAllAnswers
 	 - Input Parameters :
 	 - Return type      : ResponseEntity<String>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : retrive all answers information  from  the database.
 	  ****************************************************************************************************************************/ 
@@ -174,7 +174,7 @@ public class SurveyorController {
 		 - Method Name      : addAnswer
 		 - Input Parameters :SurveyDto answer
 		 - Return type      : String
-		 - Author           : Capgemini
+		 - Author           : Bhavya
 		 - Creation Date    : 19-04-2021
 		 - Description      : retrive all answers information  from  the database.
 		  ****************************************************************************************************************************/ 
@@ -188,7 +188,7 @@ public class SurveyorController {
 		 - Method Name      : addQuestion
 		 - Input Parameters :QuestionDto answer
 		 - Return type      : String
-		 - Author           : Capgemini
+		 - Author           : Bhavya
 		 - Creation Date    : 19-04-2021
 		 - Description      : retrive all answers information  from  the database.
 		  ****************************************************************************************************************************/ 

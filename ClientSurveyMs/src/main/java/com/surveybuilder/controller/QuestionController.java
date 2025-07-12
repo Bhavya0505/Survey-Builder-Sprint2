@@ -41,7 +41,7 @@ public class QuestionController {
 	 - Method Name      : listAllQuestionController
 	 - Input Parameters :
 	 - Return type      : List<Question>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : view all the Question from  the database.
 	  ****************************************************************************************************************************/ 
@@ -56,7 +56,7 @@ public List<Question> getAllQuestionController(){
 	 - Method Name      : createQuestionController
 	 - Input Parameters :Question s
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : create the question and store it into  the database.
 	  ****************************************************************************************************************************/ 
@@ -70,7 +70,7 @@ public List<Question> getAllQuestionController(){
 	 - Method Name      : viewQuestionByIdController
 	 - Input Parameters :long id
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : view question by id from the  the database.
 	  ****************************************************************************************************************************/ 
@@ -88,7 +88,7 @@ public List<Question> getAllQuestionController(){
 	 - Method Name      : updateQuestionController
 	 - Input Parameters :Question s, long id
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : update the Question and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -102,7 +102,7 @@ public List<Question> getAllQuestionController(){
 	 - Method Name      : deleteQuestionByIdController
 	 - Input Parameters :boolean
 	 - Return type      : long id
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : delete the Question from  the database.
 	  ****************************************************************************************************************************/ 
@@ -119,7 +119,7 @@ public List<Question> getAllQuestionController(){
 	 - Method Name      : getQuestionBySurveyId
 	 - Input Parameters :long id
 	 - Return type      : List<Question>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : view survey by id from the  the database.
 	  ****************************************************************************************************************************/ 

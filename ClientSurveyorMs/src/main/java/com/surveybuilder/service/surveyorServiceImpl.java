@@ -31,7 +31,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : createSurveyorService
 	 - Input Parameters :Surveyor s
 	 - Return type      : String
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : Create the surveyor information entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -53,7 +53,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : viewSurveyorByIdService
 	 - Input Parameters : long id
 	 - Return type      : Surveyor
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : view the surveyor information entered by surveyor from the database.
 	  ****************************************************************************************************************************/ 
@@ -70,7 +70,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : updateSurveyorService
 	 - Input Parameters :Surveyor s, long id
 	 - Return type      : Surveyor
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : update the surveyor information entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -93,7 +93,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : deleteSurveyorByIdService
 	 - Input Parameters :long id
 	 - Return type      : Boolean
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : Delete the surveyor information entered by surveyor and from  the database.
 	  ****************************************************************************************************************************/ 
@@ -117,7 +117,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : listAllSurveyorService
 	 - Input Parameters :
 	 - Return type      : List<Surveyor>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : view all the surveyor information from  the database.
 	  ****************************************************************************************************************************/ 
@@ -132,7 +132,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : authSurveyor
 	 - Input Parameters :String emailId, String pass
 	 - Return type      : Surveyor
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : authenticate the surveyor information entered by surveyor and from  the database.
 	  ****************************************************************************************************************************/ 
@@ -153,7 +153,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : createSurveyrService
 	 - Input Parameters :SurveyDto s
 	 - Return type      : String
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 23-04-2021
 	 - Description      : create the survey information entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -171,7 +171,7 @@ public class surveyorServiceImpl implements surveyorService{
 	 - Method Name      : createQuestionService
 	 - Input Parameters :QuestionDto s
 	 - Return type      : String
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 23-04-2021
 	 - Description      : create the question entered by surveyor and store into  the database.
 	  ****************************************************************************************************************************/ 

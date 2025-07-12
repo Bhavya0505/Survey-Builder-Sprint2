@@ -147,7 +147,7 @@ public class SurveyController {
 	 - Method Name      : viewOnlyAllSurveyController
 	 - Input Parameters : 
 	 - Return type      : List<Survey>
-	 - Author           : capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 19-04-2021
 	 - Description      : Retrive only sid,title and status of all the surveys from the database.
 	  ****************************************************************************************************************************/ 

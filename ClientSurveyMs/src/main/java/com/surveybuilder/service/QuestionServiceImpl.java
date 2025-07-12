@@ -27,7 +27,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : createQuestionService
 	 - Input Parameters :Question s
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : create the question and store it into  the database.
 	  ****************************************************************************************************************************/ 
@@ -43,7 +43,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : viewQuestionByIdService
 	 - Input Parameters :long id
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : view question by id from the  the database.
 	  ****************************************************************************************************************************/ 
@@ -60,7 +60,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : updateQuestionService
 	 - Input Parameters :Question s, long id
 	 - Return type      : Question
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : update the Question and store into  the database.
 	  ****************************************************************************************************************************/ 
@@ -84,7 +84,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : deleteQuestionByIdService
 	 - Input Parameters :boolean
 	 - Return type      : long id
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : delete the Question from  the database.
 	  ****************************************************************************************************************************/ 
@@ -108,7 +108,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : listAllQuestionService
 	 - Input Parameters :
 	 - Return type      : List<Question>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : view all the Question from  the database.
 	  ****************************************************************************************************************************/ 
@@ -126,7 +126,7 @@ public class QuestionServiceImpl implements QuestionService{
 	 - Method Name      : getQuestionBySurveyIdService
 	 - Input Parameters :long id
 	 - Return type      : List<Question>
-	 - Author           : Capgemini
+	 - Author           : Bhavya
 	 - Creation Date    : 20-04-2021
 	 - Description      : get Question By SurveyId from  the database.
 	  ****************************************************************************************************************************/ 
